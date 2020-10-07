@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**crysecurity/crysecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm engaged in the development of web projects and penetration testing information systems.
 
-Here are some ideas to get you started:
+My tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Laravel**
+- **Vue**
+- **Nuxt**
+- TypeScript
+- SASS
+- Socket.io
+- Redis
+- PostgreSQL
+- Docker
+- Nginx
